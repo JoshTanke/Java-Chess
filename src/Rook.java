@@ -1,6 +1,7 @@
 
 public class Rook extends Piece
 {
+	//test
 	
 	public Rook(Board board, String name, String color, int x, int y) 
 	{
